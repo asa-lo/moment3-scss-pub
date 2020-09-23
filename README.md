@@ -6,5 +6,5 @@ I denna uppgift fungerar det nu att konvertera SASS (scss-filer) till vanlig CSS
 Det går att skriva SASS-filer, som vid lagring konverteras till CSS och som går att köra i webbläsare. 
 Tidigare funktionalitet från tidigare laboration (Moment 2 GULP) finns med.*
 ### Notiser
-*Förbättringar som skulle gjorts är bland annat upplägget för media queries samt bildkompriermingen.*
+*Förbättringar som skulle gjorts är bland annat upplägget för media queries samt bildkompriemeringen*
 
